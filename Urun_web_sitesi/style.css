@@ -1,0 +1,32 @@
+.brandname {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(94, 69, 69);
+    font-size: 25px;
+
+}
+
+header{
+    background-color: rgb(252, 249, 245);
+}
+
+.navbar{
+    text-align: center;
+    margin: auto;
+    width: 80%;
+    margin-top: 30px;
+    padding-left: 70px;
+    font-size: 17px;
+    background-color: rgb(235, 233, 233);
+    
+}
+
+body{
+    background-color: rgb(252, 249, 245) ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.hakkimizda{
+    font-style: italic;
+    padding-left: 20px;
+    margin-top: 40px;
+}
