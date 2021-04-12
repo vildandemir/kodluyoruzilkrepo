@@ -1,0 +1,19 @@
+.body{
+    background-color: #E9ECEF;
+}
+
+.urunler{
+    color:gray;
+    margin: 30px;
+    margin-bottom: 50px;
+}
+
+.container{
+    margin: 40px;
+}
+
+.hakkimizda{
+    color: rgb(94, 38, 38);
+    font-style: italic;
+    margin: 20px;
+}
